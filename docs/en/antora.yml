@@ -1,6 +1,6 @@
 name: ravel
 title: Ravel
-version: dev
+version: '0.4.0-RC1'
 prerelease: true
 nav:
   - modules/ROOT/nav.adoc
@@ -8,5 +8,5 @@ asciidoc:
   attributes:
     lang: en
 
-    project-version: 0.4.0-SNAPSHOT
-    release-version: 0.3.0
+    project-version: 0.4.0-RC1
+    release-version: 0.4.0-RC1
